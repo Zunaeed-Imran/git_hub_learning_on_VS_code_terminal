@@ -24,3 +24,8 @@
 - `whoami`
 12. This command will cler the terminal
 - `clear`
+13. This Commad will remove the git origin
+- `git remote remove origin`
+- Now, you can add a new origin url by using the following command.
+- `git remote set-url origin git@github.com:Zunaeed-Imran/REPONAME.git`
+- If you want to see your current origin url, run `git remote -v`
