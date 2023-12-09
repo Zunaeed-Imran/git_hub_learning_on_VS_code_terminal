@@ -16,4 +16,7 @@
 - `git add file_name.php`
 8. This command is use To add a Git commit message to your commit.
 - `git commit -m "master"`
-9. 
+9. This Command will show present working Directory.
+- `pwd`
+10. This command will show the user name
+- `whoami`
