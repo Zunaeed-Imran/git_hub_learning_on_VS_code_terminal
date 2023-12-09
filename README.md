@@ -12,8 +12,8 @@
 - `vim file_name.php`
 6. This command can see the git status.
 - `git status`
-7. This command will add file on vs code what we just written new
+7. This command will add file on vs code what we just written new.
 - `git add file_name.php`
-8. This command is use for first commit
+8. This command is use To add a Git commit message to your commit.
 - `git commit -m "master"`
 9. 
