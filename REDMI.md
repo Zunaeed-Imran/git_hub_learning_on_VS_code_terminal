@@ -1,4 +1,3 @@
-#learning OPP
-- object oriented programming
-- default remote origin
+#Learning Git_hub on Terminal
+1. 
 
