@@ -14,4 +14,6 @@
 - `git status`
 7. This command will add file on vs code what we just written new
 - `git add file_name.php`
-8. 
+8. This command is use for first commit
+- `git commit -m "master"`
+9. 
