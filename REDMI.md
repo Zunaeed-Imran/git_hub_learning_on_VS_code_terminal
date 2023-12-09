@@ -10,4 +10,8 @@
 - `cat file.html`
 5. This command can edit the file from the terminal.
 - `vim file_name.php`
-6. 
+6. This command can see the git status.
+- `git status`
+7. This command will add file on vs code what we just written new
+- `git add file_name.php`
+8. 
