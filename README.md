@@ -29,3 +29,6 @@
 - Now, you can add a new origin url by using the following command.
 - `git remote set-url origin git@github.com:Zunaeed-Imran/REPONAME.git`
 - If you want to see your current origin url, run `git remote -v`
+
+14. I have face the 'fail to push problem' when i push it form my home laptop and form office i try to push again without puul the reppo. than some chat GPT code fix the problem pull & push problem.
+- ![Pull & Push Problem](pull_and%20_push_problem_fix.png)
