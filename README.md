@@ -32,3 +32,7 @@
 
 14. I have face the 'fail to push problem' when i push it form my home laptop and form office i try to push again without puul the reppo. than some chat GPT code fix the problem pull & push problem.
 - ![Pull & Push Problem](pull_and%20_push_problem_fix.png)
+- `git stash`
+- `git pull --rebase`
+- `git stash apply`
+- `git commit -m "Your commit message"`
