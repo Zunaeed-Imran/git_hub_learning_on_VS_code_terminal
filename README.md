@@ -36,3 +36,6 @@
 - `git pull --rebase`
 - `git stash apply`
 - `git commit -m "Your commit message"`
+
+15. if a git already setup, but i want to remove the setup.
+- `rm -rf .git`
