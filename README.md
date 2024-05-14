@@ -39,3 +39,13 @@
 
 15. if a git already setup, but i want to remove the setup.
 - `rm -rf .git`
+
+16. another push problem fix.
+- 
+```
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3600'
+
+```
+- `git credential-cache exit`
+- `git remote set-url origin git@github.com:Zunaeed-Imran/Basic_Problem_solve.git`
