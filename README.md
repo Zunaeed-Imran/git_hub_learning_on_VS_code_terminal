@@ -53,6 +53,7 @@ git config --global credential.helper 'cache --timeout=3600'
 - ![push problem 2nd page](username_Push2.png)
 
 17. Another push problem fixed(remove origin)
+- [stackOverFlow](https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository)
 - `git push`
 - `git status`
 - `git remote -v`
