@@ -52,7 +52,7 @@ git config --global credential.helper 'cache --timeout=3600'
 - ![push rpoblem](username_push.png)
 - ![push problem 2nd page](username_Push2.png)
 
-17. Another push problem fixed()
+17. Another push problem fixed(remove origin)
 - `git push`
 - `git status`
 - `git remote -v`
@@ -61,4 +61,7 @@ git config --global credential.helper 'cache --timeout=3600'
 - `git remote set-url git@github.com:Zunaeed-Imran/Array-Map321.git`
 - `git remote -v`
 - `git git remote add origin git@github.com:Zunaeed-Imran/Array-Map321.git`
-- 
+- `git remote add origin git@github.com:Zunaeed-Imran/Array-Map321.git`
+- `git remote -v`
+- `git status`
+- `git push origin main`
