@@ -66,3 +66,6 @@ git config --global credential.helper 'cache --timeout=3600'
 - `git remote -v`
 - `git status`
 - `git push origin main`
+
+18. check the internet latency.
+- `ping 192.168.0.1`
